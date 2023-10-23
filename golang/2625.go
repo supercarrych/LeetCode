@@ -1,4 +1,4 @@
-package LeetCode
+package main
 
 func sumOfMultiples(n int) int {
 	sum := 0
